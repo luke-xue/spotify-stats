@@ -1,0 +1,8 @@
+.background {
+    background: linear-gradient(90deg, #b3f2ef, #5c62bb, #93dfcc);
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
